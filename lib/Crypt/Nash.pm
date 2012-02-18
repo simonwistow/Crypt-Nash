@@ -154,6 +154,7 @@ sub _DEBUG {
     my $mess = shift;
     warn $mess if $DEBUG;
 }
+
 =head1 AUTHOR
 
 Python Implementation by Ronald L. Rivest (2/17/2012)
@@ -161,6 +162,10 @@ Python Implementation by Ronald L. Rivest (2/17/2012)
 Available here http://courses.csail.mit.edu/6.857/2012/files/nash.py
 
 Perl port by Simon Wistow
+
+=head1 LICENSE
+
+Distributed under the same terms as Perl itself
 
 =cut
 
