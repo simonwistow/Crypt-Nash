@@ -4,3 +4,5 @@ MANIFEST			This list of files
 t/00_basic.t
 t/pod.t
 t/pod_coverage.t
+Makefile.PL
+META.yml
